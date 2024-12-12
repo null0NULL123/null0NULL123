@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman" />
   <img src="https://img.shields.io/badge/-Apifox-181717?style=flat-square&logo=Apifox" />
+  <img src="https://img.shields.io/badge/-Chrome-181717?style=flat-square&logo=google-chrome" />
 </p>
 
 <!-- Programming Languages & Formats -->
