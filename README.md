@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-MinIO-181717?style=flat-square&logo=MinIO" />
 </p>
 
+
 <!-- Development Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
@@ -70,12 +71,19 @@
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=null0NULL123&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=null0NULL123&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
-
 
 
 ## 🎯 Recent Activity
@@ -86,6 +94,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+new+things;Always+exploring;Never+stop+growing&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <!--END_SECTION:activity-->
+
 
 
 
