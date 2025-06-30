@@ -1,6 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
 
-
 ## 🚀 About Me
 
 <!-- TODO: Update this section with your personal information -->
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/-MinIO-181717?style=flat-square&logo=MinIO" />
 </p>
 
-
 <!-- Development Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
@@ -70,14 +68,11 @@
   <img src="https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kali-linux" />
 </p>
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Statsa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=null0NULL123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-
 
 ## 🏆 GitHub Trophies
 
@@ -85,20 +80,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=null0NULL123&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-
 ## 🎯 Recent Activity
 
-<!-- TODO: Set up GitHub Action to update this section automatically -->
-<!--START_SECTION:activity-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+new+things;Always+exploring;Never+stop+growing&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+  <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=flat-square&logo=github&logoColor=white" alt="My Learning List" />
+  </a>
 </p>
-<!--END_SECTION:activity-->
-
-
-
 
 ---
-
-
-
