@@ -10,22 +10,31 @@
 
 ## 🛠️ Technologies & Tools
 
-<!-- Backend & DevOps -->
+<!-- Framework -->
 <p align="center">
   <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
   <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" />
   <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" />
   <img src="https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=Langchain" />
   <img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch" />
+
 </p>
 
 
-<!-- Programming Languages & Formats -->
+<!-- Programming Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
   <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python" />
+  <img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=Go" />
+  <img src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=c" />
   <img src="https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js" />
+</p>
+
+<!-- Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL" />
   <img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=AutoCAD" />
 </p>
 
