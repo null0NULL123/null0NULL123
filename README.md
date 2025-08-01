@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL" />
   <img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=AutoCAD" />
+  <img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace" />
 </p>
 
 ## 📊 GitHub Statsa
