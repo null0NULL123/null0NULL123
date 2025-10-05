@@ -53,10 +53,11 @@
 
 ## 🎯 Recent Activity
 
-<p align="center">
+<p>
   <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=flat-square&logo=github&logoColor=white" alt="My Learning List" />
   </a>
 </p>
 
----
+## 🤝 Looking for Collaboration
+
