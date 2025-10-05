@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace" />
 </p>
 
-## 📊 GitHub Statsa
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=null0NULL123&show_icons=true&theme=radical" alt="GitHub Stats" />
