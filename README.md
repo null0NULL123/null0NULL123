@@ -55,7 +55,12 @@
 
 <p>
   <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=flat-square&logo=github&logoColor=white" alt="My Learning List" />
+    <img src="https://img.shields.io/badge/-My%20Star%20List-181717?style=flat-square&logo=github&logoColor=white" alt="Star List" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/null0NULL123/Docs" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=flat-square&logo=github&logoColor=white" alt="Learning" />
   </a>
 </p>
 
