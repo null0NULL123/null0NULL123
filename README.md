@@ -1,27 +1,19 @@
 <h1 align="center">Hi There 👋</h1>
 
-## 🚀 About Me
-
-<!-- TODO: Update this section with your personal information -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌱+A+student+major+in+SE.&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 ## 🛠️ Technologies & Tools
 
-<!-- Framework -->
 <p align="center">
   <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
   <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" />
   <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" />
   <img src="https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=Langchain" />
   <img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch" />
-
 </p>
 
-
-<!-- Programming Languages -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python" />
   <img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=Go" />
@@ -30,7 +22,6 @@
   <img src="https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js" />
 </p>
 
-<!-- Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
@@ -42,27 +33,44 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=null0NULL123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/null0NULL123">
+    <img src="https://img.shields.io/github/stars/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Followers" />
+    <img src="https://img.shields.io/github/last-commit/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Last Commit" />
+  </a>
 </p>
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/null0NULL123">
+    <img src="https://img.shields.io/badge/Repos-XX-blue?style=for-the-badge&logo=github" alt="Repos" />
+    <img src="https://img.shields.io/github/license/null0NULL123?style=for-the-badge&color=blue" alt="License" />
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
+  </a>
+</p>
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=null0NULL123&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🎯+Profile+Views-XX-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🌱+Open+Source-Contributor-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻+Always+Learning-blueviolet?style=for-the-badge" />
 </p>
 
 ## 🎯 Recent Activity
 
-<p>
+<p align="center">
   <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Star%20List-181717?style=flat-square&logo=github&logoColor=white" alt="Star List" />
+    <img src="https://img.shields.io/badge/-My%20Star%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star List" />
   </a>
-</p>
-<p>
   <a href="https://github.com/null0NULL123/Docs" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=flat-square&logo=github&logoColor=white" alt="Learning" />
+    <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
   </a>
 </p>
 
 ## 🤝 Looking for Collaboration
 
+<p align="center">
+  <a href="https://github.com/null0NULL123">
+    <img src="https://img.shields.io/badge/Let's+Connect!-f75c7e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
