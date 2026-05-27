@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=180&section=header&text=null0NULL123&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=180&section=header&text=kylin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+Go+%7C+C+%7C+TypeScript;FastAPI+%7C+Flask+%7C+PyTorch+%7C+LangChain;Always+learning+something+new...&font=Fira%20Code&center=true&width=500&height=80&color=f75c7e&vCenter=true&size=22&pause=1000">
 
 <br/>
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=null0NULL123&color=f75c7e&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -56,7 +55,6 @@
 <a href="https://github.com/null0NULL123">
   <img src="https://img.shields.io/github/stars/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Stars" />
   <img src="https://img.shields.io/github/followers/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Always%20Learning-🐍-f75c7e?style=for-the-badge&logo=github&logoColor=white" alt="Always Learning" />
 </a>
 
 <br/>
@@ -91,10 +89,10 @@
 ### 🎯 Recent Activity
 
 <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
-  <img src="https://img.shields.io/badge/-⭐+My%20Star%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star List" />
+  <img src="https://img.shields.io/badge/-⭐My%20Star%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star List" />
 </a>
 <a href="https://github.com/null0NULL123/Docs" target="_blank">
-  <img src="https://img.shields.io/badge/-📚+My%20Learning%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/-📚My%20Learning%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
 </a>
 
 </div>
@@ -107,7 +105,7 @@
 ### 🤝 Let's Connect!
 
 <a href="https://github.com/null0NULL123">
-  <img src="https://img.shields.io/badge/📬+Say+Hello-f75c7e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📬Say Hello-f75c7e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=100&section=footer" width="100%"/>
