@@ -1,76 +1,112 @@
-<h1 align="center">Hi There 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌱+A+student+major+in+SE.&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=180&section=header&text=null0NULL123&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-## 🛠️ Technologies & Tools
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+Go+%7C+C+%7C+TypeScript;FastAPI+%7C+Flask+%7C+PyTorch+%7C+LangChain;Always+learning+something+new...&font=Fira%20Code&center=true&width=500&height=80&color=f75c7e&vCenter=true&size=22&pause=1000">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
-  <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" />
-  <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" />
-  <img src="https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=Langchain" />
-  <img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python" />
-  <img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=Go" />
-  <img src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js" />
-</p>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=null0NULL123&color=f75c7e&style=for-the-badge" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
-  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL" />
-  <img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=AutoCAD" />
-  <img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace" />
-</p>
+</div>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <a href="https://github.com/null0NULL123">
-    <img src="https://img.shields.io/github/stars/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Stars" />
-    <img src="https://img.shields.io/github/followers/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Followers" />
-    <img src="https://img.shields.io/github/last-commit/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Last Commit" />
-  </a>
-</p>
+<!-- Tech Stack -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/null0NULL123">
-    <img src="https://img.shields.io/badge/Repos-XX-blue?style=for-the-badge&logo=github" alt="Repos" />
-    <img src="https://img.shields.io/github/license/null0NULL123?style=for-the-badge&color=blue" alt="License" />
-    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
-  </a>
-</p>
+### 🛠️ Technologies & Tools
 
-## 🏆 Achievements
+**Frameworks**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯+Profile+Views-XX-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/🌱+Open+Source-Contributor-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻+Always+Learning-blueviolet?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" />
+<img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" />
+<img src="https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=Langchain" />
+<img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch" />
 
-## 🎯 Recent Activity
+**Languages**
 
-<p align="center">
-  <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Star%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star List" />
-  </a>
-  <a href="https://github.com/null0NULL123/Docs" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Learning%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python" />
+<img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=Go" />
+<img src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js" />
 
-## 🤝 Looking for Collaboration
+**Tools**
 
-<p align="center">
-  <a href="https://github.com/null0NULL123">
-    <img src="https://img.shields.io/badge/Let's+Connect!-f75c7e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
+<img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL" />
+<img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=AutoCAD" />
+<img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=80&section=footer" width="100%"/>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/null0NULL123">
+  <img src="https://img.shields.io/github/stars/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Followers" />
+  <img src="https://img.shields.io/badge/Always%20Learning-🐍-f75c7e?style=for-the-badge&logo=github&logoColor=white" alt="Always Learning" />
+</a>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null0NULL123&theme=radical&hide_border=true&background=0D1117&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="Streak Stats" />
+</a>
+
+</div>
+
+---
+
+<!-- Contribution Snake -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<!-- GitHub Actions 会定时生成这张图，详见下方说明 -->
+<img src="https://raw.githubusercontent.com/null0NULL123/null0NULL123/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<!-- Recent Activity -->
+<div align="center">
+
+### 🎯 Recent Activity
+
+<a href="https://github.com/null0NULL123?tab=stars" target="_blank">
+  <img src="https://img.shields.io/badge/-⭐+My%20Star%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star List" />
+</a>
+<a href="https://github.com/null0NULL123/Docs" target="_blank">
+  <img src="https://img.shields.io/badge/-📚+My%20Learning%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
+</a>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+### 🤝 Let's Connect!
+
+<a href="https://github.com/null0NULL123">
+  <img src="https://img.shields.io/badge/📬+Say+Hello-f75c7e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=100&section=footer" width="100%"/>
+
+</div>
