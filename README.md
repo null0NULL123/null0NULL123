@@ -75,8 +75,11 @@
 
 ### 🐍 Contribution Snake
 
-<!-- GitHub Actions 会定时生成这张图，详见下方说明 -->
-<img src="https://raw.githubusercontent.com/null0NULL123/null0NULL123/output/github-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/null0NULL123/null0NULL123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/null0NULL123/null0NULL123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/null0NULL123/null0NULL123/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -108,5 +111,3 @@
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=100&section=footer" width="100%"/>
-
-</div>
