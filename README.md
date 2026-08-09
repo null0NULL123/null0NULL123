@@ -1,19 +1,7 @@
 <div align="center">
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=null0NULL123&color=f75c7e&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
 <!-- Tech Stack -->
-<div align="center">
-
-### 🛠️ Technologies & Tools
-
-**Frameworks**
+### Tools
 
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
 <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" />
@@ -21,15 +9,14 @@
 <img src="https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=Langchain" />
 <img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch" />
 
-**Languages**
+<br/>
 
 <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python" />
 <img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=Go" />
 <img src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=c" />
 <img src="https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js" />
-
-**Tools**
+<br/>
 
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
 <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
@@ -45,11 +32,12 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <a href="https://github.com/null0NULL123">
-  <img src="https://img.shields.io/github/stars/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/null0NULL123?style=for-the-badge&logo=github&color=f75c7e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/null0NULL123?style=for-the-badge&color=f75c7e" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/null0NULL123?style=for-the-badge&color=f75c7e" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=null0NULL123&color=f75c7e&style=for-the-badge" alt="Profile Views" />
 </a>
 
 <br/>
@@ -66,7 +54,7 @@
 <!-- Contribution Snake -->
 <div align="center">
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/null0NULL123/null0NULL123/output/github-snake-dark.svg" />
@@ -81,7 +69,7 @@
 <!-- Recent Activity -->
 <div align="center">
 
-### 🎯 Recent Activity
+### Recent Activity
 
 <a href="https://github.com/null0NULL123?tab=stars" target="_blank">
   <img src="https://img.shields.io/badge/-⭐My%20Star%20List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star List" />
