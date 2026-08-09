@@ -39,7 +39,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=80&section=footer" width="100%"/>
 
 ---
 
@@ -93,15 +92,3 @@
 
 </div>
 
----
-
-<!-- Footer -->
-<div align="center">
-
-### 🤝 Let's Connect!
-
-<a href="https://github.com/null0NULL123">
-  <img src="https://img.shields.io/badge/📬Say Hello-f75c7e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=100&section=footer" width="100%"/>
