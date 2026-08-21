@@ -2,13 +2,11 @@
 
 <!-- Tech Stack -->
 ### Tools
-
-<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
-<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" />
+<img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace" />
 <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" />
-<img src="https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=Langchain" />
+<img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=LangChain" />
+<img src="https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=LangGraph" />
 <img src="https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python" />
@@ -18,11 +16,19 @@
 <img src="https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue.js" />
 <br/>
 
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI" />
+<img src="https://img.shields.io/badge/-Podman-black?style=flat-square&logo=Podman" />
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" />
 <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL" />
-<img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=AutoCAD" />
-<img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace" />
+<img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite" />
+<img src="https://img.shields.io/badge/-MinIO-black?style=flat-square&logo=MinIO" />
+<br/>
+
+<img src="https://img.shields.io/badge/-Neovim-black?style=flat-square&logo=Neovim" />
+<img src="https://img.shields.io/badge/-Fedora-black?style=flat-square&logo=Fedora" />
+<img src="https://img.shields.io/badge/-bspwm-black?style=flat-square&logo=bspwm" />
+<img src="https://img.shields.io/badge/-Claude-black?style=flat-square&logo=Claude" />
 
 </div>
 
